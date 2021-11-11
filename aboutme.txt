@@ -1,9 +1,9 @@
 <span id="a">root@litt1eb0y</span>:<span id="b">~</span><span id="c">$</span> whoami
-<p>Pugalarasan aka (litt1eb0y) | Hacker | Bug Hunter | CTF Player</p>
+<p>Pugalarasan aka (litt1eb0y) | Founder of HorridSec | Hacker | Bug Hunter | CTF Player</p>
 <span id="a">root@litt1eb0y</span>:<span id="b">~</span><span id="c">$</span> cat aboutme.txt
-<p>Hey There! I am Pugalarasan K. I am currently pursuing my Bachelor's in Computer Science and Engineering at <a href="https://ksrct.ac.in">KSRCT</a>. I am doing Bug Bounty Hunting as my Hobby(<a href="https://hackerone.com/litt1eb0y/">HackerOne</a> and <a href="https://bugcrowd.com/litt1eb0y/">BugCrowd</a>). I love to Hack the infosec stuff's and I solves CTF challenges to upgrade my skills. My areas in this field are Web Application Hacking & Security, and Mobile Applications Security. Do you want to see some of my GitHub repos? <a href="https://github.com/litt1eb0yy/">Here you go.</a></p>
+<p>Hey There! I am Pugalarasan K. I am currently pursuing my Bachelor's in Computer Science and Engineering at <a href="https://ksrct.ac.in">KSRCT</a>. I am doing Bug Bounty Hunting as my Hobby(<a href="https://hackerone.com/litt1eb0y/">HackerOne</a> and <a href="https://bugcrowd.com/litt1eb0y/">BugCrowd</a>). I love to Hack the things. My areas in this field are Web Application Hacking & Security, and Mobile Applications Security. Do you want to see some of my GitHub repos? <a href="https://github.com/litt1eb0yy/">Here you go.</a></p>
 <span id="a">root@litt1eb0y</span>:<span id="b">~</span><span id="c">$</span> cat contact.txt
-<p>You can visit my other profiles, here: <br> <a href="https://www.linkedin.com/in/little-boy/">LinkedIn</a> <br> <a href="https://instagram.com/litt1eb0y_">InstaGram</a> <br> <a href="https://twitter.com/litt1eb0y_">Twitter</a> <br> <a href="https://facebook.com/litt1eb0y">FaceBook</a>.
+<p>You can visit my other profiles, here: <br> <a href="https://www.linkedin.com/in/little-boy/">LinkedIn</a> <br> <a href="https://instagram.com/litt1eb0y_/">InstaGram</a> <br> <a href="https://twitter.com/litt1eb0y_">Twitter</a> <br> <a href="https://facebook.com/litt1eb0y">FaceBook</a>.
 If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an <a href="mailto: littleboy.pugazh@hotmail.com">email</a></br></p>
 <span id="a">root@litt1eb0y</span>:<span id="b">~</span><span id="c">$</span> exit
 Cheers!
