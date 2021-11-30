@@ -1,5 +1,5 @@
 <span id="a">root@litt1eb0y</span>:<span id="b">~</span><span id="c">$</span> whoami
-<p>Pugalarasan aka (litt1eb0y) | Founder of HorridSec | Hacker | Bug Hunter | Cyber Security Researcher</p>
+<p>Pugalarasan (litt1eb0y) | Building <a href="https://twitter.com/HorridSec">HorridSec</a> | Hacker | Bug Hunter | Cyber Security Researcher</p>
 <span id="a">root@litt1eb0y</span>:<span id="b">~</span><span id="c">$</span> cat aboutme.txt
 <p>Hey There! I am Pugalarasan K. I am currently pursuing my Bachelor's in Computer Science and Engineering at <a href="https://ksrct.ac.in">KSRCT</a>. I am doing Bug Bounty Hunting as my Hobby(<a href="https://hackerone.com/litt1eb0y/">HackerOne</a> and <a href="https://bugcrowd.com/litt1eb0y/">BugCrowd</a>). I love to Hack. My areas in this field are Web Application Hacking & Security, and Mobile Applications Security. Do you want to see some of my GitHub repos? <a href="https://github.com/litt1eb0yy/">Here you go.</a></p>
 <span id="a">root@litt1eb0y</span>:<span id="b">~</span><span id="c">$</span> cat contact.txt
