@@ -1,10 +1,10 @@
 <span id="a">litt1eb0y@hacking</span>:<span id="b">~</span><span id="c">$</span> whoami
 <p> Pugalarasan aka @litt1eb0y. </p>
 <span id="a">litt1eb0y@hacking</span>:<span id="b">~</span><span id="c">$</span> cat about.me
-<p>Hey There! I am Pugalarasan K, from India.</p>
-<p> I am an Hacker, Bug Bounty Hunter and Cyber Security Researcher.</p>
-<p> I am currently pursuing my Bachelor's in Computer Science and Engineering at <a href="https://ksrct.ac.in">KSRCT</a>.</p>
-<p> My area of interest and expertise involves Web Application Hacking & Security, Network Security, Vulnerability Assesment and Penetration Testing, and Open Source Intelligence.</P>
+<p>Hey There! I am Pugalarasan K, from India.
+<p> I am an Hacker, Bug Bounty Hunter and Cyber Security Researcher.
+<p> I am currently pursuing my Bachelor's in Computer Science and Engineering at <a href="https://ksrct.ac.in">KSRCT</a>.
+<p> My area of interest and expertise involves Web Application Hacking & Security, Network Security, Vulnerability Assesment and Penetration Testing, and Open Source Intelligence.
 <p> Do you want to see my GitHub repos? <a href="https://github.com/0xlittleboy/">Here you go.</a></p>
 <span id="a">litt1eb0y@hacking</span>:<span id="b">~</span><span id="c">$</span> cat contact.me
 <p>You can visit my other profiles, here: <br> <a href="https://www.linkedin.com/in/little-boy/">LinkedIn</a> <br> <a href="https://instagram.com/0xlittleboy/">InstaGram</a> <br> <a href="https://twitter.com/0xlittleboy">Twitter</a>.
