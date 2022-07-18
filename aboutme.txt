@@ -1,13 +1,15 @@
-<span id="a">litt1eb0y@hacking</span>:<span id="b">~</span><span id="c">$</span> whoami
-<p> Pugalarasan aka @litt1eb0y. </p>
-<span id="a">litt1eb0y@hacking</span>:<span id="b">~</span><span id="c">$</span> cat about.me
+<span id="a">root@litt1eb0y</span>:<span id="b">~</span><span id="c">$</span> whoami
+<p> Pugalarasan @litt1eb0y. </p>
+<span id="a">root@litt1eb0y</span>:<span id="b">~</span><span id="c">$</span> cat about.me
 Hey There! I am Pugalarasan K, from India.
 I am an Hacker, Bug Bounty Hunter and Cyber Security Researcher.
 I am currently pursuing my Bachelor's in Computer Science and Engineering at <a href="https://ksrct.ac.in">KSRCT</a>.
-My area of interest and expertise involves Web Application Hacking & Security, Network Security, Vulnerability Assesment and Penetration Testing, and Open Source Intelligence.
+My area of interest and expertise involves: <br>
+~ Web Application Hacking & Security <br>
+~ Vulnerability Assesment <br>
+~ Penetration Testing <br>
 Do you want to see my GitHub repos? <a href="https://github.com/0xlittleboy/">Here you go.</a></p>
-<span id="a">litt1eb0y@hacking</span>:<span id="b">~</span><span id="c">$</span> cat contact.me
-<p>You can visit my other profiles, here: <br> <a href="https://www.linkedin.com/in/0xlittleboy/">LinkedIn</a> <br> <a href="https://instagram.com/0xlittleboy/">InstaGram</a> <br> <a href="https://twitter.com/0xlittleboy">Twitter</a>.
+<span id="a">root@litt1eb0y</span>:<span id="b">~</span><span id="c">$</span> cat contact.me
+<p>You can visit my other profiles, here: <br> ~ <a href="https://www.linkedin.com/in/0xlittleboy/">LinkedIn</a> <br> ~ <a href="https://instagram.com/0xlittleboy/">InstaGram</a> <br> ~ <a href="https://twitter.com/0xlittleboy">Twitter</a>.
 If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an <a href="mailto: littleboy.pugazh@hotmail.com">email</a></br></p>
-<span id="a">litt1eb0y@hacking</span>:<span id="b">~</span><span id="c">$</span> exit
-Cheers!
+<span id="a">root@litt1eb0y</span>:<span id="b">~</span><span id="c">$</span> exit
