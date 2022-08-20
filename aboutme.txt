@@ -8,10 +8,10 @@ My area of interest and expertise involves:
 ~ Web Application Hacking & Security
 ~ Vulnerability Assesment 
 ~ Penetration Testing </p>
-I develop & contribute to Open Source Projects in <a href="https://github.com/0xlittleboy/">GitHub.</a></p>
-If you are looking to hire me. Here is my <a href="https://drive.google.com/file/d/1TctakFkeXTfxlAjyI2SKvZYOYWnXPxVv/view?usp=sharing">Resume.<a></p>
+I develop & contribute to Open Source Projects in <a href="https://github.com/0xlittleboy/">GitHub.</a>
+If you are looking to hire me. Here is my <a href="https://drive.google.com/file/d/1TctakFkeXTfxlAjyI2SKvZYOYWnXPxVv/view?usp=sharing">Resume.<a>
 <span id="a">root@litt1eb0y</span>:<span id="b">~</span><span id="c">$</span> cat contact.me
-You can reach me at <a href="0xlittleboy@gmail.com">EMail</a></p>
-<p>You can visit my other profiles, here: <br> ~ <a href="https://www.linkedin.com/in/0xlittleboy/">LinkedIn</a> <br> ~ <a href="https://instagram.com/0xlittleboy/">InstaGram</a> <br> ~ <a href="https://twitter.com/0xlittleboy">Twitter</a>.
+<p>You can reach me at <a href="0xlittleboy@gmail.com">EMail</a>
+You can visit my other profiles, here: <br> ~ <a href="https://www.linkedin.com/in/0xlittleboy/">LinkedIn</a> <br> ~ <a href="https://instagram.com/0xlittleboy/">InstaGram</a> <br> ~ <a href="https://twitter.com/0xlittleboy">Twitter</a>.
 If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an <a href="mailto: littleboy.pugazh@hotmail.com">email</a></br></p>
 <span id="a">root@litt1eb0y</span>:<span id="b">~</span><span id="c">$</span> exit
