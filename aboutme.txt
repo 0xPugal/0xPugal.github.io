@@ -4,7 +4,7 @@
 <p> Hey There! I am Pugalarasan K, from India.
 I am an Hacker, Bug Bounty Hunter and Cyber Security Researcher.
 I am pursuing my Bachelor's in Computer Science and Engineering at <a href="https://ksrct.ac.in">KSRCT</a>.
-I am currently working as a Software Engineer Intern at < href="https://pentafox.in">Pentafox Technologies</a>. <br>
+I am currently working as a Software Engineer Intern at <a href="https://pentafox.in">Pentafox Technologies</a>. <br>
 
 My area of interest and expertise involves: 
   ~ Web Application Hacking & Security
