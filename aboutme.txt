@@ -1,16 +1,15 @@
 <span id="a">root@litt1eb0y</span>:<span id="b">~</span><span id="c">$</span> whoami
-<p> Pugalarasan @litt1eb0y. </p>
+<p> Pugalarasan @0xlittleboy. </p>
 <span id="a">root@litt1eb0y</span>:<span id="b">~</span><span id="c">$</span> cat about.me
 <p> Hey There! I am Pugalarasan K, from India.
 I am an Hacker, Bug Bounty Hunter and Cyber Security Researcher.
-I am pursuing my Bachelor's in Computer Science and Engineering at <a href="https://ksrct.ac.in">KSRCT</a>. <br>
+I am pursuing my Bachelor's in Computer Science and Engineering at <a href="https://ksrct.ac.in">KSRCT</a>.
+I am currently working as a Software Engineer Intern at < href="https://pentafox.in">Pentafox Technologies</a>. <br>
 
 My area of interest and expertise involves: 
   ~ Web Application Hacking & Security
-  ~ Application Security
   ~ Vulnerability Assesment & Penetration Testing
-  ~ Reconnaissance and Content Discovery
-  ~ Linux/Unix Operating Systems
+  ~ API Penetration Testing
 I develop & contribute to Open Source Projects in <a href="https://github.com/0xlittleboy/">GitHub.</a>
 If you are looking to hire me. Here is my <a href="https://drive.google.com/file/d/19A3hYDxgfM6BbD17I-ivTAAtQpkTCsot/view?usp=sharing">Resume.</a></p>
 <span id="a">root@litt1eb0y</span>:<span id="b">~</span><span id="c">$</span> cat contact.me
