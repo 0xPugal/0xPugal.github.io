@@ -1,5 +1,5 @@
 <span id="a">root@litt1eb0y</span>:<span id="b">~</span><span id="c">$</span> whoami
-<p> Pugalarasan @0xlittleboy. </p>
+<p> Pugalarasan </p>
 <span id="a">root@litt1eb0y</span>:<span id="b">~</span><span id="c">$</span> cat about.me
 <p> Hey There! I am Pugalarasan K, from India.
 I am an Hacker, Bug Bounty Hunter and Cyber Security Researcher.
@@ -10,9 +10,9 @@ My area of interest and expertise involves:
   ~ Web Application Hacking & Security
   ~ Vulnerability Assesment & Penetration Testing
   ~ API Penetration Testing
-I develop & contribute to Open Source Projects in <a href="https://github.com/0xlittleboy/">GitHub.</a>
+I develop & contribute to Open Source Projects in <a href="https://github.com/0xPugazh/">GitHub.</a>
 If you are looking to hire me. Here is my <a href="https://drive.google.com/file/d/1XwQUL8tp9yjJj_YAsS36dJQiwBOL-TYt/view?usp=sharing">Resume.</a></p>
 <span id="a">root@litt1eb0y</span>:<span id="b">~</span><span id="c">$</span> cat contact.me
 <p> You can reach me at <a href="mailto: 0xlittleboy@gmail.com">0xlittleboy@gmail.com</a>
-You can visit my other profiles, here: <br> ~ <a href="https://www.linkedin.com/in/0xlittleboy/">LinkedIn</a> <br> ~ <a href="https://instagram.com/0xlittleboy/">InstaGram</a> <br> ~ <a href="https://twitter.com/0xlittleboy">Twitter</a>.</p>
+You can visit my other profiles, here: <br> ~ <a href="https://www.linkedin.com/in/0xPugazh/">LinkedIn</a> <br> ~ <a href="https://instagram.com/0xPugazh/">InstaGram</a> <br> ~ <a href="https://twitter.com/0xPugazh">Twitter</a>.</p>
 <span id="a">root@litt1eb0y</span>:<span id="b">~</span><span id="c">$</span> exit
