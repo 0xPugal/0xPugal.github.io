@@ -17,5 +17,5 @@ I develop and contribute to open source projects on <a href="https://github.com/
 If you are looking to hire me. Here is my <a href="https://drive.google.com/file/d/1XwQUL8tp9yjJj_YAsS36dJQiwBOL-TYt/view?usp=sharing">Resume.</a></p>
 <span id="a">root@litt1eb0y</span>:<span id="b">~</span><span id="c">$</span> cat contact.me
 <p> You can reach me at <a href="mailto: 0xpugazh@gmail.com">0xpugazh@gmail.com</a>
-You can visit my other profiles, here: <br> ~ <a href="https://www.linkedin.com/in/0xPugazh/">LinkedIn</a> <br> ~ <a href="https://instagram.com/0xPugazh/">InstaGram</a> <br> ~ <a href="https://twitter.com/0xPugazh">Twitter</a>.</p>
+You can visit my other profiles, here: <br> ~ <a href="https://www.linkedin.com/in/0xPugazh/">LinkedIn</a> <br> ~ <a href="https://instagram.com/pugazh.sh/">InstaGram</a> <br> ~ <a href="https://twitter.com/0xPugazh">Twitter</a>.</p>
 <span id="a">root@litt1eb0y</span>:<span id="b">~</span><span id="c">$</span> exit
