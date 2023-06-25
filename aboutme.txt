@@ -13,7 +13,7 @@ My area of interest and expertise involves:
   ~ Python & Bash Scripting for Automating Boring Stuff.
 
 I develop and contribute to open source projects on <a href="https://github.com/0xPugazh/">GitHub.</a>
-If you are looking to hire me. Here is my <a href="https://drive.google.com/file/d/1Dw3jW7dm4WoXTcW3IUZhTqVG6HmxQUQ8/view?usp=sharing">Resume.</a></p>
+If you are looking to hire me. Here is my <a href="https://drive.google.com/file/d/1BaM6ovRvK-P8_dVxaASezfnCKtXReDQ8/view?usp=sharing">Resume.</a></p>
 <span id="a">0xpugazh@hacking</span>:<span id="b">~</span><span id="c">$</span> cat contact.me
 <p> You can reach me at <a href="mailto: 0xpugazh@gmail.com">0xpugazh@gmail.com</a>
 You can visit my other profiles, here: <br> ~ <a href="https://www.linkedin.com/in/0xPugazh/">LinkedIn</a> <br> ~ <a href="https://instagram.com/0xPugazh/">InstaGram</a> <br> ~ <a href="https://twitter.com/0xPugazh">Twitter</a>.</p>
