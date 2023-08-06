@@ -14,7 +14,7 @@ My area of interest and expertise involves:
   ~ Python & Bash Scripting for Automating Boring Stuff.
 
 I develop and contribute to open source projects on <a href="https://github.com/0xPugazh/">GitHub.</a>
-If you are looking to hire me. Here is my <a href="https://drive.google.com/file/d/1AcuHsLSd_yGVlJyASmokDJKgQ7rNhbrf/view?usp=sharing">Resume.</a></p>
+If you are looking to hire me. Here is my <a href="https://drive.google.com/file/d/1gV9qR9czadPDl0Gkzf7sO3qMFdJxemZi/view?usp=sharing">Resume.</a></p>
 <span id="a">0xpugazh@hacking</span>:<span id="b">~</span><span id="c">$</span> cat contact.me
 <p> You can <a href="https://www.buymeacoffee.com/0xPugazh">Buy me a Coffee</a> by supporting me.
 <p> You can reach me at <a href="mailto: pugalarasan.k@outlook.com">pugalarasan1305@gmail.com</a>
