@@ -1,4 +1,3 @@
-# 0xPugazh.github.io
-
-**[Visit the website here.](https://0xpugazh.github.io)**
+**[0xPUGAL.GITHUB.IO](https://0xpugal.github.io)**
 ____________________________________________________________________________________________________________________________
+![Screenshot_31-3-2024_0026_127 0 0 1](https://github.com/0xPugal/0xPugal.github.io/assets/75373225/45d4a611-f395-4143-8611-7d5a81b8b41e)
