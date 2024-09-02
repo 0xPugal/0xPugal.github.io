@@ -1317,18 +1317,6 @@ body.noscroll header.fixed {
 
 /* start contact wrapper */
 
-.contact-details h4 {
-	font-weight: 700;
-	font-size: 22px;
-	margin-bottom: 10px;
-	margin-top: -4px;
-}
-
-.contact-details p {
-	font-weight: 300;
-	font-size: 15px;
-}
-
 .contact-info {
 	margin-top: 20px;
 }
